@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/onurtahsin/form-events-example/static/css/main.f0d685eb.css",
-    "main.js": "/onurtahsin/form-events-example/static/js/main.3a611053.js",
-    "index.html": "/onurtahsin/form-events-example/index.html",
-    "main.f0d685eb.css.map": "/onurtahsin/form-events-example/static/css/main.f0d685eb.css.map",
-    "main.3a611053.js.map": "/onurtahsin/form-events-example/static/js/main.3a611053.js.map"
+    "main.css": "/form-events-example/static/css/main.f0d685eb.css",
+    "main.js": "/form-events-example/static/js/main.3a611053.js",
+    "index.html": "/form-events-example/index.html",
+    "main.f0d685eb.css.map": "/form-events-example/static/css/main.f0d685eb.css.map",
+    "main.3a611053.js.map": "/form-events-example/static/js/main.3a611053.js.map"
   },
   "entrypoints": [
     "static/css/main.f0d685eb.css",
