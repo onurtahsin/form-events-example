@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onurtahsin/form-events-example/static/css/main.f0d685eb.css",
+    "main.js": "/onurtahsin/form-events-example/static/js/main.3a611053.js",
+    "index.html": "/onurtahsin/form-events-example/index.html",
+    "main.f0d685eb.css.map": "/onurtahsin/form-events-example/static/css/main.f0d685eb.css.map",
+    "main.3a611053.js.map": "/onurtahsin/form-events-example/static/js/main.3a611053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d685eb.css",
+    "static/js/main.3a611053.js"
+  ]
+}
